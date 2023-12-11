@@ -2,7 +2,9 @@ package Interface_Livre;
 
 public class Formulario extends javax.swing.JFrame {
 
-   
+    // Utilizando interface NeatBeans por curiosidade
+    // Calculadora
+
     public Formulario() {
         initComponents();
     }
